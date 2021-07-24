@@ -1,9 +1,9 @@
 ### Hi there, I'm [Tanish](https://tanishgupta.me) 👋
 
 
-- 🔭 I’m a sophomore at IIITV persuing Computer Science.
+- 🔭 I’m a Third Year UG at IIITV persuing Computer Science.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Nodejs,Django and React based projects
+- 👯 I’m looking to collaborate on Nodejs,React and React-native based projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar
 
