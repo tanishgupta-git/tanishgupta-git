@@ -40,6 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishgupta-git&hide=html,css&layout=compact" />
 </a>
 
-[twitter]: https://twitter.com/TanishG02114765
+[twitter]: https://twitter.com/_TanishGupta
 [instagram]: https://www.instagram.com/tanish2605/
 [linkedin]: https://www.linkedin.com/in/tanish-gupta-52b76a19a/
