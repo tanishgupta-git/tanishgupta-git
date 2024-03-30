@@ -1,7 +1,7 @@
 ### Hi there, I'm [Tanish](https://tanishgupta.me) 👋
 
 
-- 🔭 I’m a Final Year Student at IIITV.
+- 🔭 I’m a Software Developer at Addinex Technologies Inc.
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to sing and play guitar
 
