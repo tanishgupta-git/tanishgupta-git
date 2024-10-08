@@ -1,4 +1,4 @@
-### Hi there, I'm [Tanish](https://tanishgupta.me) 👋
+### Hi there, I'm [Tanish](https://tanishgupta.com) 👋
 
 
 - 🔭 I’m a Software Developer at Addinex Technologies Inc.
